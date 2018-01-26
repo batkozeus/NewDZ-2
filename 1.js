@@ -55,19 +55,19 @@ else {
 						taba.innerHTML = `Taba - ${6-resortPeople} мест`;
 					}
 					else {
-						alert('Мест нигде нету!');
+						alert('Вы передумали!');
 					}
 				}
 				else {
-					alert('Мест нигде нету!');
+					alert('Мест нету!');
 				}
 			}
 			else {
-				alert('Мест нигде нету!');
+				alert('Мест нету!');
 			}
 		}
 		else {
-			alert('Мест нигде нету!');
+			alert('Мест нету!');
 		}
 	}
 	else {
