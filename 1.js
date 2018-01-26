@@ -34,7 +34,7 @@ var hurgada = document.getElementById('hurgada');
 var tabaFree = 6;
 var sharmFree = 25;
 var hurgadaFree = 15;
-if (resortPeople == null) {
+if ((resortPeople == null)||(resortPeople == '')) {
 	alert('Вы передумали!');
 }
 else {
